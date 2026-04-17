@@ -18,4 +18,4 @@ You will need to read the paper you selected deeply. Imagine as if you are prepa
 
 After reading, please complete the post-reading questionnaire. Answer thoughtfully to the questions provided. This is your forum to provide any and all feedback about the interface!
 
-***If you are done reading the instruction and watching the video, please click the checkbox below to get access to the LinkNav Interface and the Post-Reading Questionnaire.***
+***If you are done reading the instructions and watching the video, please click the checkbox below to get access to the LinkNav Interface and the Post-Reading Questionnaire.***
